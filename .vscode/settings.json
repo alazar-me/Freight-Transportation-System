@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/killo/Documents/tomcat9/apache-tomcat-9.0.71/lib/mysql-connector-java-8.0.30.jar",
+        "/home/killo/Documents/tomcat9/apache-tomcat-9.0.71/lib/servlet-api.jar"
+    ]
+}
